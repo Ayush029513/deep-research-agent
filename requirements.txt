@@ -1,4 +1,3 @@
-streamlit
 langchain
 langchain-core
 langchain-groq
@@ -13,4 +12,4 @@ python-dotenv
 requests
 beautifulsoup4
 tavily-python
-duckduckgo-search
+ddgs
