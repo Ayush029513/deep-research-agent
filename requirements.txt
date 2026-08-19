@@ -7,6 +7,8 @@ chromadb
 langchain-chroma
 langchain-huggingface
 sentence-transformers
+torch
+torchvision
 python-dotenv
 requests
 beautifulsoup4
