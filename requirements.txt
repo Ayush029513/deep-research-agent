@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-core
+langchain-groq
+langgraph
+chromadb
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+python-dotenv
+requests
+beautifulsoup4
+tavily-python
+duckduckgo-search
